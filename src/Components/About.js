@@ -21,7 +21,7 @@ const About = () => {
         {/* <p className="primary-subheading">About</p> */}
         
         <p className="primary-text">- Established in 2011</p>
-        <p className="primary-text">- With 6 UG courses</p>
+        <p className="primary-text">- Approved by AICTE</p>
         <p className="primary-text">- Strong Industrial collaboration and Alumni interaction for placements</p>
         <p className="primary-text">- Several clubs & student chapters for promoting Co-Curricular activities</p>
         <p className="primary-text">- Motivating students to participate in various national events</p>
